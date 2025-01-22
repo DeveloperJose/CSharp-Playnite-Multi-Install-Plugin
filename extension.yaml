@@ -1,0 +1,10 @@
+﻿Id: Multi_Install_51a2784a-3dec-442c-841f-ad2cfab92363
+Name: Multi-Install
+Author: DeveloperJose
+Version: 1.0
+Module: Multi_Install.dll
+Type: GenericPlugin
+Icon: icon.png
+Links:
+    - Name: Source Code
+      Url: https://github.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin  
