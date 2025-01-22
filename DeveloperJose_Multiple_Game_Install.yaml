@@ -3,17 +3,18 @@ Type: Generic
 Name: Multiple Game Install
 Author: DeveloperJose
 ShortDescription: This extension allows you to install multiple games at once.
-InstallerManifestUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/manifest.yaml
-SourceUrl: https://github.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/tree/main/src
+InstallerManifestUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/manifest.yaml
+SourceUrl: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/tree/main/src
 Description: |
   "This extension allows you to install multiple games at once so you don't have to go around installing each one manually.
   Just select some games, right-click, and select "Install Games". They will be installed one after the other automatically."
 Tags: ["Generic", "Install"]
 Links:
-  GitHub: https://github.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin
-IconUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/src/icon.png
+  GitHub: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin
+  Issues: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/issues
+IconUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/icon.png
 Screenshots:
-  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/src/multi-install-right-click.png
-    Image: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/src/multi-install-right-click.png
-  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/src/multi-install-start.png
-    Image: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multi-Install-Plugin/src/multi-install-start.png
+  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-right-click.png
+    Image: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-right-click.png
+  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-start.png
+    Image: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-start.png
