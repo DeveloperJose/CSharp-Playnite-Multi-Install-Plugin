@@ -14,9 +14,9 @@ using Playnite.SDK.Plugins;
 using SuccessStory;
 using SuccessStory.Services;
 
-namespace Multi_Install
+namespace Multiple_Game_Install
 {
-    public class Multi_Install : GenericPlugin
+    public class Multiple_Game_Install : GenericPlugin
     {
         private static readonly ILogger logger = LogManager.GetLogger();
 
@@ -25,7 +25,7 @@ namespace Multi_Install
         /// <summary>
         /// A string used for window titles and other displays
         /// </summary>
-        private readonly string Title = "Multi-Install Plugin";
+        private readonly string Title = "Multiple Game Install Plugin";
 
         /// <summary>
         /// Games that the user selected to install that are currently not installed.
@@ -59,7 +59,7 @@ namespace Multi_Install
         private bool successStory_AutoImport;
         private bool successStory_AutoImportOnInstalled;
 
-        public Multi_Install(IPlayniteAPI api)
+        public Multiple_Game_Install(IPlayniteAPI api)
             : base(api)
         {
             Properties = new GenericPluginProperties { HasSettings = false };

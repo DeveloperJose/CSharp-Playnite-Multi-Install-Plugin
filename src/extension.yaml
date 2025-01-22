@@ -1,8 +1,8 @@
-﻿Id: Multi_Install_51a2784a-3dec-442c-841f-ad2cfab92363
-Name: Multi-Install
+﻿Id: Multiple_Game_Install_51a2784a-3dec-442c-841f-ad2cfab92363
+Name: Multiple Game Install
 Author: DeveloperJose
 Version: 1.0
-Module: Multi_Install.dll
+Module: Multiple_Game_Install.dll
 Type: GenericPlugin
 Icon: icon.png
 Links:

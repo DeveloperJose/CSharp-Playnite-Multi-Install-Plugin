@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Multi_Install")]
+[assembly: AssemblyTitle("Multiple_Game_Install")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Multi_Install")]
+[assembly: AssemblyProduct("Multiple_Game_Install")]
 [assembly: AssemblyCopyright("Copyright DeveloperJose © 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
