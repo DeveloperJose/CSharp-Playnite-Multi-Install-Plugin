@@ -12,9 +12,9 @@ Tags: ["Generic", "Install"]
 Links:
   GitHub: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin
   Issues: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/issues
-IconUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/icon.png
+IconUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/src/icon.png
 Screenshots:
-  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-right-click.png
-    Image: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-right-click.png
-  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-start.png
-    Image: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/src/Multiple-Game-Install-start.png
+  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-right-click.png
+    Image:     https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-right-click.png
+  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-start.png
+    Image:     https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-start.png
